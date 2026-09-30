@@ -1,0 +1,3 @@
+Customer: Janco Queiroz
+Total Cost: R115.789
+Final bill after discount: R110
